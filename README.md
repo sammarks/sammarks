@@ -1,4 +1,4 @@
-<img src="./github-header.svg" alt="Hey, I'm Sam Marks. I help bring ideas to life through code and pixels." width="100%" />
+<img src="https://github.com/sammarks/sammarks/raw/master/github-header.svg" alt="Hey, I'm Sam Marks. I help bring ideas to life through code and pixels." width="100%" />
 <br />
 
 👨🏻‍💻 &nbsp;Right now you'll find me working on the next-generation classroom at [BusinessU](https://businessu.org/) and [Collabra.](https://collabramusic.com/)
