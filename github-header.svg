@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="420px" viewBox="0 0 1200 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>github-header</title>
+    <desc>Created with Sketch.</desc>
+    <g id="github-header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#17223B" x="0" y="0" width="1200" height="420" rx="10"></rect>
+        <text id="Hey,-I’m-Sam-Marks." font-family="SFProDisplay-Regular, SF Pro Display" font-size="56" font-weight="normal">
+            <tspan x="86" y="239" fill="#E2E5E9">Hey, I’m </tspan>
+            <tspan x="290.53125" y="239" font-family="SFProDisplay-Semibold, SF Pro Display" font-weight="500" fill="#FFFFFF">Sam Marks.</tspan>
+            <tspan x="581.714844" y="239" fill="#E2E5E9"> I help bring ideas to </tspan>
+            <tspan x="86" y="306" fill="#E2E5E9">life through code and pixels.</tspan>
+        </text>
+        <text id="👋" font-family="AppleColorEmoji, Apple Color Emoji" font-size="72" font-weight="normal" fill="#7C8595">
+            <tspan x="86" y="153">👋</tspan>
+        </text>
+    </g>
+</svg>
